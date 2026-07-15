@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=siddharth2024-bot&style=flat-square&color=58A6FF&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
 
